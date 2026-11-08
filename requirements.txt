@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas
+numpy
+scikit-learn
+torch
+langchain-core
+langchain-google-genai
